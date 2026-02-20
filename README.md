@@ -6,6 +6,7 @@
 | [cardano-balance-transaction](https://github.com/cardano-foundation/cardano-balance-transaction) | [February 2026](https://github.com/cardano-foundation/cardano-balance-transaction/wiki/Logbook-February-2026) |
 | [cardano-coin-selection](https://github.com/cardano-foundation/cardano-coin-selection) | [February 2026](https://github.com/cardano-foundation/cardano-coin-selection/wiki/Logbook-February-2026) |
 | [cardano-ledger-read](https://github.com/cardano-foundation/cardano-ledger-read) | [February 2026](https://github.com/cardano-foundation/cardano-ledger-read/wiki/Logbook-February-2026) |
+| [moog](https://github.com/cardano-foundation/moog) | [February 2026](https://github.com/cardano-foundation/moog/wiki/Logbook-February-2026) |
 | [cardano-mpfs-onchain](https://github.com/cardano-foundation/cardano-mpfs-onchain) | [February 2026](https://github.com/cardano-foundation/cardano-mpfs-onchain/wiki/Logbook-February-2026) |
 | [cardano-mpfs-offchain](https://github.com/paolino/cardano-mpfs-offchain) | [February 2026](https://github.com/paolino/cardano-mpfs-offchain/wiki/Logbook-February-2026) |
 | [haskell-csmt](https://github.com/paolino/haskell-csmt) | [February 2026](https://github.com/paolino/haskell-csmt/wiki/Logbook-February-2026) |
