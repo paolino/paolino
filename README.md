@@ -13,3 +13,5 @@
 | [cardano-utxo-csmt](https://github.com/paolino/cardano-utxo-csmt) | [February 2026](https://github.com/paolino/cardano-utxo-csmt/wiki/Logbook-February-2026) |
 | [contra-tracer-contrib](https://github.com/paolino/contra-tracer-contrib) | [January 2026](https://github.com/paolino/contra-tracer-contrib/wiki/Logbook-January-2026) |
 | [rocksdb-kv-transactions](https://github.com/paolino/rocksdb-kv-transactions) | [January 2026](https://github.com/paolino/rocksdb-kv-transactions/wiki/Logbook-January-2026) |
+| [cardano-node-clients](https://github.com/paolino/cardano-node-clients) | [February 2026](https://github.com/paolino/cardano-node-clients/wiki/Logbook-February-2026) |
+| [haskell-libp2p](https://github.com/paolino/haskell-libp2p) | [February 2026](https://github.com/paolino/haskell-libp2p/wiki/Logbook-February-2026) |
