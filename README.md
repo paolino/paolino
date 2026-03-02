@@ -9,7 +9,7 @@
 | [moog](https://github.com/cardano-foundation/moog) | [February 2026](https://github.com/cardano-foundation/moog/wiki/Logbook-February-2026) |
 | [cardano-mpfs-onchain](https://github.com/cardano-foundation/cardano-mpfs-onchain) | [February 2026](https://github.com/cardano-foundation/cardano-mpfs-onchain/wiki/Logbook-February-2026) |
 | [cardano-mpfs-offchain](https://github.com/paolino/cardano-mpfs-offchain) | [February 2026](https://github.com/paolino/cardano-mpfs-offchain/wiki/Logbook-February-2026) |
-| [haskell-csmt](https://github.com/paolino/haskell-csmt) | [February 2026](https://github.com/paolino/haskell-csmt/wiki/Logbook-February-2026) |
+| [haskell-mts](https://github.com/paolino/haskell-mts) | [February 2026](https://github.com/paolino/haskell-mts/wiki/Logbook-February-2026) |
 | [cardano-utxo-csmt](https://github.com/paolino/cardano-utxo-csmt) | [February 2026](https://github.com/paolino/cardano-utxo-csmt/wiki/Logbook-February-2026) |
 | [contra-tracer-contrib](https://github.com/paolino/contra-tracer-contrib) | [January 2026](https://github.com/paolino/contra-tracer-contrib/wiki/Logbook-January-2026) |
 | [rocksdb-kv-transactions](https://github.com/paolino/rocksdb-kv-transactions) | [January 2026](https://github.com/paolino/rocksdb-kv-transactions/wiki/Logbook-January-2026) |
