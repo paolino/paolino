@@ -2,7 +2,7 @@
 
 I work mainly at:
 
-- **[Lambda Sistemi](https://github.com/lambdasistemi)** — cryptographic infrastructure and tooling for Cardano
+- **[Lambdasistemi](https://github.com/lambdasistemi)** — cryptographic infrastructure and tooling for Cardano
 - **[Cardano Foundation](https://github.com/cardano-foundation)** — open-source Cardano node tooling and wallet
 
 ---
