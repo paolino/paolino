@@ -38,7 +38,7 @@ I work mainly at:
 | Repository | Description | Logbook |
 |---|---|---|
 | [moog](https://github.com/cardano-foundation/moog) | Antithesis simulation testing orchestrator for Cardano node | [Jun 2026](https://github.com/cardano-foundation/moog/wiki/Logbook-June-2026) |
-| [cardano-node-antithesis](https://github.com/cardano-foundation/cardano-node-antithesis) | Cardano testnet harness and assets for the Antithesis testing platform | |
+| [cardano-node-antithesis](https://github.com/cardano-foundation/cardano-node-antithesis) | Cardano testnet harness and assets for the Antithesis testing platform | [Jul 2026](https://github.com/cardano-foundation/cardano-node-antithesis/wiki/Logbook-July-2026) |
 | [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) | HTTP server and CLI for managing UTxOs and HD wallets on Cardano | [Jul 2026](https://github.com/cardano-foundation/cardano-wallet/wiki/Logbook-July-2026) |
 | [cardano-mpfs-onchain](https://github.com/cardano-foundation/cardano-mpfs-onchain) | Aiken on-chain validators for Merkle Patricia Forestry on Cardano | [Jul 2026](https://github.com/cardano-foundation/cardano-mpfs-onchain/wiki/Logbook-July-2026) |
 | [cardano-balance-transaction](https://github.com/cardano-foundation/cardano-balance-transaction) | Balance transaction library | [Jun 2026](https://github.com/cardano-foundation/cardano-balance-transaction/wiki/Logbook-June-2026) |
