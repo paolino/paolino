@@ -1,3 +1,11 @@
+### Paolo Veronelli
+
+Cryptographic identity infrastructure and Cardano tooling, mostly in Haskell.
+
+🔗 [lambdasistemi.net](https://lambdasistemi.net) · 📫 [paolo.veronelli@gmail.com](mailto:paolo.veronelli@gmail.com)
+
+---
+
 ## Organizations
 
 I work mainly at:
