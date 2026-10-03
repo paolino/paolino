@@ -42,6 +42,11 @@ I work mainly at:
 | [cardano-for-regulators](https://github.com/lambdasistemi/cardano-for-regulators) | Cardano explainers and tools for regulatory contexts | [Apr 2026](https://github.com/lambdasistemi/cardano-for-regulators/wiki/Logbook-April-2026) |
 | [singular](https://github.com/lambdasistemi/singular) | A permissionless registry on Cardano for unique identities and independent application state | [Oct 2026](https://github.com/lambdasistemi/singular/wiki/Logbook-October-2026) |
 | [tasty-bdd](https://github.com/lambdasistemi/tasty-bdd) | Typed Given/When/Then scenarios and providers for Haskell Tasty | [Oct 2026](https://github.com/lambdasistemi/tasty-bdd/wiki/Logbook-October-2026) |
+| [cardano-tx-tools](https://github.com/lambdasistemi/cardano-tx-tools) | Cardano transaction tooling: builder, structural diff, blueprint decoding | |
+| [cardano-swiss-knife](https://github.com/lambdasistemi/cardano-swiss-knife) | Browser-first Cardano Swiss Knife for address tools, transaction inspection and more | |
+| [cardano-lib-conformance](https://github.com/lambdasistemi/cardano-lib-conformance) | Runnable evidence for the cardano-dev-skills fixpoint skill | |
+| [plutus-browser](https://github.com/lambdasistemi/plutus-browser) | Browser UI for the wasm32 Plutus evaluator — UPLC playground and snippets | |
+| [factory-tui](https://github.com/lambdasistemi/factory-tui) | Browse the agent factory as a tree of seats over a flat terminal landscape | [Aug 2026](https://github.com/lambdasistemi/factory-tui/wiki/Logbook-August-2026) |
 
 ## Cardano Foundation
 
