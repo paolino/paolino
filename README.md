@@ -68,4 +68,4 @@ I work mainly at:
 | Repository | Description | Logbook |
 |---|---|---|
 | [kelgroups](https://github.com/paolino/kelgroups) | Polymorphic Haskell library for KEL-based group management with KERI hash-chained events | |
-| [reactivegas](https://github.com/paolino/reactivegas) | Purchasing-group accounting app, being rebuilt on the kelgroups KERI substrate | |
+| [reactivegas](https://github.com/paolino/reactivegas) | Purchasing-group accounting app, being rebuilt on the kelgroups KERI substrate | [Oct 2026](https://github.com/paolino/reactivegas/wiki/Logbook-October-2026) |
