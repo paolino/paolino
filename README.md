@@ -28,10 +28,10 @@ I work mainly at:
 | [graph-browser](https://github.com/lambdasistemi/graph-browser) | RDF graph browser SPA — PureScript + Cytoscape.js, guided tours | [Apr 2026](https://github.com/lambdasistemi/graph-browser/wiki/Logbook-April-2026) |
 | [cardano-ledger-inspector](https://github.com/lambdasistemi/cardano-ledger-inspector) | Cardano ledger operations compiled to WASI — browser inspector and CLI | [Jul 2026](https://github.com/lambdasistemi/cardano-ledger-inspector/wiki/Logbook-July-2026) |
 | [cardano-addresses-browser](https://github.com/lambdasistemi/cardano-addresses-browser) | Browser-based Cardano address toolkit — PureScript replacement for cardano-addresses CLI | |
-| [amaru-treasury-tx](https://github.com/lambdasistemi/amaru-treasury-tx) | Build and sign Amaru treasury transactions — disburse, reorganize, withdraw, swap | [Jul 2026](https://github.com/lambdasistemi/amaru-treasury-tx/wiki/Logbook-July-2026) |
+| [amaru-treasury-tx](https://github.com/lambdasistemi/amaru-treasury-tx) | Build and sign Amaru treasury transactions — disburse, reorganize, withdraw, swap | [Oct 2026](https://github.com/lambdasistemi/amaru-treasury-tx/wiki/Logbook-October-2026) |
 | [rocksdb-kv-transactions](https://github.com/lambdasistemi/rocksdb-kv-transactions) | RocksDB backend for composable key-value transactions | [Apr 2026](https://github.com/lambdasistemi/rocksdb-kv-transactions/wiki/Logbook-April-2026) |
-| [cardano-node-clients](https://github.com/lambdasistemi/cardano-node-clients) | Typed Cardano node protocol clients — Haskell library | [Jul 2026](https://github.com/lambdasistemi/cardano-node-clients/wiki/Logbook-July-2026) |
-| [cardano-keri](https://github.com/lambdasistemi/cardano-keri) | KERI AID on Cardano — self-certifying identifiers with pre-rotation for on-chain credential anchoring | [Jul 2026](https://github.com/lambdasistemi/cardano-keri/wiki/Logbook-July-2026) |
+| [cardano-node-clients](https://github.com/lambdasistemi/cardano-node-clients) | Typed Cardano node protocol clients — Haskell library | [Oct 2026](https://github.com/lambdasistemi/cardano-node-clients/wiki/Logbook-October-2026) |
+| [cardano-keri](https://github.com/lambdasistemi/cardano-keri) | KERI AID on Cardano — self-certifying identifiers with pre-rotation for on-chain credential anchoring | [Oct 2026](https://github.com/lambdasistemi/cardano-keri/wiki/Logbook-October-2026) |
 | [chain-follower](https://github.com/lambdasistemi/chain-follower) | Chain-sync follower with rollback support | [Apr 2026](https://github.com/lambdasistemi/chain-follower/wiki/Logbook-April-2026) |
 | [cardano-vcr](https://github.com/lambdasistemi/cardano-vcr) | Record and replay Cardano node interactions for testing | [Apr 2026](https://github.com/lambdasistemi/cardano-vcr/wiki/Logbook-April-2026) |
 | [cardano-mithril-client](https://github.com/lambdasistemi/cardano-mithril-client) | Haskell Mithril client — certified snapshot downloads | [Apr 2026](https://github.com/lambdasistemi/cardano-mithril-client/wiki/Logbook-April-2026) |
@@ -40,15 +40,17 @@ I work mainly at:
 | [cardano-bbs](https://github.com/lambdasistemi/cardano-bbs) | BBS+ anonymous credentials for Cardano — Haskell off-chain + Aiken on-chain | |
 | [eu-digital-product-passport](https://github.com/lambdasistemi/eu-digital-product-passport) | Digital product passport on Cardano | [Apr 2026](https://github.com/lambdasistemi/eu-digital-product-passport/wiki/Logbook-April-2026) |
 | [cardano-for-regulators](https://github.com/lambdasistemi/cardano-for-regulators) | Cardano explainers and tools for regulatory contexts | [Apr 2026](https://github.com/lambdasistemi/cardano-for-regulators/wiki/Logbook-April-2026) |
+| [singular](https://github.com/lambdasistemi/singular) | A permissionless registry on Cardano for unique identities and independent application state | [Oct 2026](https://github.com/lambdasistemi/singular/wiki/Logbook-October-2026) |
+| [tasty-bdd](https://github.com/lambdasistemi/tasty-bdd) | Typed Given/When/Then scenarios and providers for Haskell Tasty | [Oct 2026](https://github.com/lambdasistemi/tasty-bdd/wiki/Logbook-October-2026) |
 
 ## Cardano Foundation
 
 | Repository | Description | Logbook |
 |---|---|---|
 | [moog](https://github.com/cardano-foundation/moog) | Antithesis simulation testing orchestrator for Cardano node | [Jun 2026](https://github.com/cardano-foundation/moog/wiki/Logbook-June-2026) |
-| [cardano-node-antithesis](https://github.com/cardano-foundation/cardano-node-antithesis) | Cardano testnet harness and assets for the Antithesis testing platform | [Jul 2026](https://github.com/cardano-foundation/cardano-node-antithesis/wiki/Logbook-July-2026) |
-| [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) | HTTP server and CLI for managing UTxOs and HD wallets on Cardano | [Jul 2026](https://github.com/cardano-foundation/cardano-wallet/wiki/Logbook-July-2026) |
-| [cardano-mpfs-onchain](https://github.com/cardano-foundation/cardano-mpfs-onchain) | Aiken on-chain validators for Merkle Patricia Forestry on Cardano | [Jul 2026](https://github.com/cardano-foundation/cardano-mpfs-onchain/wiki/Logbook-July-2026) |
+| [cardano-node-antithesis](https://github.com/cardano-foundation/cardano-node-antithesis) | Cardano testnet harness and assets for the Antithesis testing platform | [Oct 2026](https://github.com/cardano-foundation/cardano-node-antithesis/wiki/Logbook-October-2026) |
+| [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) | HTTP server and CLI for managing UTxOs and HD wallets on Cardano | [Oct 2026](https://github.com/cardano-foundation/cardano-wallet/wiki/Logbook-October-2026) |
+| [cardano-mpfs-onchain](https://github.com/cardano-foundation/cardano-mpfs-onchain) | Aiken on-chain validators for Merkle Patricia Forestry on Cardano | [Sep 2026](https://github.com/cardano-foundation/cardano-mpfs-onchain/wiki/Logbook-September-2026) |
 | [cardano-balance-transaction](https://github.com/cardano-foundation/cardano-balance-transaction) | Balance transaction library | [Jun 2026](https://github.com/cardano-foundation/cardano-balance-transaction/wiki/Logbook-June-2026) |
 | [cardano-coin-selection](https://github.com/cardano-foundation/cardano-coin-selection) | Coin-selection library extracted from cardano-wallet — also runs in-browser via WebAssembly | [Apr 2026](https://github.com/cardano-foundation/cardano-coin-selection/wiki/Logbook-April-2026) |
-| [cardano-ledger-read](https://github.com/cardano-foundation/cardano-ledger-read) | Read Cardano block data, parametrized by era | [Apr 2026](https://github.com/cardano-foundation/cardano-ledger-read/wiki/Logbook-April-2026) |
+| [cardano-ledger-read](https://github.com/cardano-foundation/cardano-ledger-read) | Read Cardano block data, parametrized by era | [Sep 2026](https://github.com/cardano-foundation/cardano-ledger-read/wiki/Logbook-September-2026) |
