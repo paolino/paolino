@@ -47,6 +47,7 @@ I work mainly at:
 | [cardano-lib-conformance](https://github.com/lambdasistemi/cardano-lib-conformance) | Runnable evidence for the cardano-dev-skills fixpoint skill | |
 | [plutus-browser](https://github.com/lambdasistemi/plutus-browser) | Browser UI for the wasm32 Plutus evaluator — UPLC playground and snippets | |
 | [factory-tui](https://github.com/lambdasistemi/factory-tui) | Browse the agent factory as a tree of seats over a flat terminal landscape | [Aug 2026](https://github.com/lambdasistemi/factory-tui/wiki/Logbook-August-2026) |
+| [lockness](https://github.com/lambdasistemi/lockness) | Web2 scaling with explicit trust management: choose anchors, buy data availability, and verify before acting | |
 
 ## Cardano Foundation
 
