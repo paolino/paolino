@@ -48,6 +48,8 @@ I work mainly at:
 | [plutus-browser](https://github.com/lambdasistemi/plutus-browser) | Browser UI for the wasm32 Plutus evaluator — UPLC playground and snippets | |
 | [factory-tui](https://github.com/lambdasistemi/factory-tui) | Browse the agent factory as a tree of seats over a flat terminal landscape | [Aug 2026](https://github.com/lambdasistemi/factory-tui/wiki/Logbook-August-2026) |
 | [lockness](https://github.com/lambdasistemi/lockness) | Web2 scaling with explicit trust management: choose anchors, buy data availability, and verify before acting | |
+| [amaru-bootstrap](https://github.com/lambdasistemi/amaru-bootstrap) | Bootstrap data pipeline for Amaru on custom Cardano testnets — stock IOG tools, no consensus fork | |
+| [lambdasistemi.net](https://github.com/lambdasistemi/lambdasistemi.net) | Source of lambdasistemi.net | |
 
 ## Cardano Foundation
 
@@ -60,3 +62,10 @@ I work mainly at:
 | [cardano-balance-transaction](https://github.com/cardano-foundation/cardano-balance-transaction) | Balance transaction library | [Jun 2026](https://github.com/cardano-foundation/cardano-balance-transaction/wiki/Logbook-June-2026) |
 | [cardano-coin-selection](https://github.com/cardano-foundation/cardano-coin-selection) | Coin-selection library extracted from cardano-wallet — also runs in-browser via WebAssembly | [Apr 2026](https://github.com/cardano-foundation/cardano-coin-selection/wiki/Logbook-April-2026) |
 | [cardano-ledger-read](https://github.com/cardano-foundation/cardano-ledger-read) | Read Cardano block data, parametrized by era | [Sep 2026](https://github.com/cardano-foundation/cardano-ledger-read/wiki/Logbook-September-2026) |
+
+## Personal
+
+| Repository | Description | Logbook |
+|---|---|---|
+| [kelgroups](https://github.com/paolino/kelgroups) | Polymorphic Haskell library for KEL-based group management with KERI hash-chained events | |
+| [reactivegas](https://github.com/paolino/reactivegas) | Purchasing-group accounting app, being rebuilt on the kelgroups KERI substrate | |
